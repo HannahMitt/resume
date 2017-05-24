@@ -19,3 +19,14 @@ Developed and released the Android app for the [NBA](https://play.google.com/sto
 ## School
 #### Bachelor of Applied Science, University of Toronto
 Computer Engineering | GPA 3.72
+
+## Skills
+Strong: Android, Java </br>
+Medium: PHP, Git, MySQL </br>
+Mild: JavaScript, HTML, CSS, iOS, Objective-C, svn
+
+## Projects
+[Home Mirror](https://github.com/HannahMitt/HomeMirror) A smart mirror for your home built out of a two-way mirror, an old Android tablet, and my app. It's hard to explain why, but this was pretty popular on the internet for a minute. Featured in [Popular Science magazine](http://www.popsci.com/how-to-turn-your-smartphone-into-smart-mirror).
+
+[Nomophobia](https://play.google.com/store/apps/details?id=com.hannah.nomophobia) The major feature of this app was a homescreen widget that would display how long it had been since you last checked your phone every time you turned your screen on. I haven't updated it since 2013 but it was pretty fun at the time.
+
