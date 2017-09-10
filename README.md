@@ -1,5 +1,5 @@
 # Hannah Morrison
-(Hannah Mittelstaedt) | hannahmittel@gmail.com | [@hannahmitt](https://twitter.com/hannahmitt)
+(Hannah Mittelstaedt) | [@hannahmitt](https://twitter.com/hannahmitt)
 
 ## Work
 #### Since 2013 - Staff Engineer at Etsy
