@@ -1,8 +1,13 @@
 # Hannah Morrison
-(Hannah Mittelstaedt) | [@hannahmitt](https://twitter.com/hannahmitt)
+(Hannah Mittelstaedt)
 
 ## Work
-#### Since 2013 - Staff Engineer at Etsy
+#### Since 2017 Senior Staff Engineer at Mailchimp
+Lead of API Core team maintaining [Mailchimp's Marketing API](https://mailchimp.com/developer/marketing/)
+
+Mailchimp Github profile: [@mc-hannah-morrison](https://github.com/mc-hannah-morrison)
+
+#### 2013 - 2017 Staff Engineer at Etsy
 2017 - Tech lead for App Platform team, responsible for team strategy and technical decisions. The team works cross-platform on a variety of infrastructure supporting Etsy's native apps.
 
 2016 - Tech lead for App Delivery Engineering. Conceived of and lead a project to redefine how Etsy ships apps. [Read about the project on Code as Craft](https://codeascraft.com/2017/05/15/how-etsy-ships-apps/).
